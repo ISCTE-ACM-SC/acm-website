@@ -12,7 +12,7 @@ export function Footer() {
             <Link href="/" className="flex items-center space-x-2 mb-4">
               <Image
                 alt="ACM Chapter Logo"
-                src="/localhost_files/cropped-LOGOv1-4.png"
+                src="/acm_sc_logo.png"
                 width={40}
                 height={40}
                 className="w-8 h-8 sm:w-10 sm:h-10 rounded-full bg-white p-1"
@@ -89,7 +89,7 @@ export function Footer() {
                 </svg>
               </Link>
               <Link
-                href="https://discord.gg/acmiscte"
+                href="https://discord.gg/v2pFBrYvNj"
                 className="text-blue-200 hover:text-white transition-colors"
                 aria-label="Discord"
               >

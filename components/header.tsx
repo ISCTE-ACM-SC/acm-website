@@ -25,7 +25,7 @@ export function Header() {
           <Link href="/" className="flex items-center space-x-2 sm:space-x-3 hover:opacity-80 transition-opacity">
             <Image
               alt="ACM Chapter Logo"
-              src="/localhost_files/cropped-LOGOv1-4.png"
+              src="/acm_sc_logo.png"
               width={48}
               height={48}
               className="w-10 h-10 sm:w-12 sm:h-12 rounded-full p-1"
